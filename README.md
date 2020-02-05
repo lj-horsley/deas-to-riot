@@ -1,1 +1,1 @@
-# deas-to-riot
+# dead-to-riot
